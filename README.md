@@ -1,6 +1,6 @@
 # Fuzzy Logic
 
-Under construction.
+A Mamdani fuzzy logic fan controller that maps temperature and humidity inputs to fan speed using membership functions, rule inference, and center-of-area defuzzification. Interactive ratatui UI with live fuzzy set visualization.
 
 ## ScreenShots
 
